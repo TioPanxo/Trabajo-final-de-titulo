@@ -11,21 +11,21 @@ double effort
 copying state
 running
 beams/max_level_size:4/16
-[BSG_path] new best_solution_found (0.020094): 0.88856456 15 nodes
-[BSG_path] new best_solution_found (0.036768): 0.92484608 19 nodes
-[BSG_path] new best_solution_found (0.055515): 0.94464237 22 nodes
-[BSG_path] new best_solution_found (0.631149): 0.94589516 21 nodes
-[BSG_path] new best_solution_found (0.899212): 0.94952435 21 nodes
-[BSG_path] new best_solution_found (1.100353): 0.9514402 21 nodes
-[BSG_path] new best_solution_found (1.105854): 0.95191491 21 nodes
-[DoubleEffort] new best_solution_found (1.109333): 0.95191491
+[BSG_path] new best_solution_found (0.019831): 0.88856456 15 nodes
+[BSG_path] new best_solution_found (0.035771): 0.92484608 19 nodes
+[BSG_path] new best_solution_found (0.052081): 0.94464237 22 nodes
+[BSG_path] new best_solution_found (0.606357): 0.94589516 21 nodes
+[BSG_path] new best_solution_found (0.866817): 0.94952435 21 nodes
+[BSG_path] new best_solution_found (1.068273): 0.9514402 21 nodes
+[BSG_path] new best_solution_found (1.073155): 0.95191491 21 nodes
+[DoubleEffort] new best_solution_found (1.076486): 0.95191491
 beams/max_level_size:6/36
-[BSG_path] new best_solution_found (2.842973): 0.95220751 25 nodes
-[BSG_path] new best_solution_found (3.208072): 0.95221993 18 nodes
-[BSG_path] new best_solution_found (3.213676): 0.9540511 19 nodes
-[BSG_path] new best_solution_found (3.308474): 0.95468786 20 nodes
-[BSG_path] new best_solution_found (3.315716): 0.95973808 19 nodes
-[DoubleEffort] new best_solution_found (3.331566): 0.95973808
+[BSG_path] new best_solution_found (2.751889): 0.95220751 25 nodes
+[BSG_path] new best_solution_found (3.112367): 0.95221993 18 nodes
+[BSG_path] new best_solution_found (3.117726): 0.9540511 19 nodes
+[BSG_path] new best_solution_found (3.213223): 0.95468786 20 nodes
+[BSG_path] new best_solution_found (3.219752): 0.95973808 19 nodes
+[DoubleEffort] new best_solution_found (3.234605): 0.95973808
 beams/max_level_size:8/64
 % volume utilization
 95.973808

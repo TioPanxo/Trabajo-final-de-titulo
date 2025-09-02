@@ -11,22 +11,22 @@ double effort
 copying state
 running
 beams/max_level_size:4/16
-[BSG_path] new best_solution_found (0.011991): 0.93176843 15 nodes
-[BSG_path] new best_solution_found (0.064117): 0.93545781 22 nodes
-[BSG_path] new best_solution_found (0.253227): 0.93650894 18 nodes
-[BSG_path] new best_solution_found (0.268644): 0.94014747 19 nodes
-[BSG_path] new best_solution_found (0.326424): 0.94520522 23 nodes
-[DoubleEffort] new best_solution_found (0.348634): 0.94520522
+[BSG_path] new best_solution_found (0.012026): 0.93176843 15 nodes
+[BSG_path] new best_solution_found (0.062426): 0.93545781 22 nodes
+[BSG_path] new best_solution_found (0.222684): 0.93650894 18 nodes
+[BSG_path] new best_solution_found (0.235824): 0.94014747 19 nodes
+[BSG_path] new best_solution_found (0.291696): 0.94520522 23 nodes
+[DoubleEffort] new best_solution_found (0.314819): 0.94520522
 beams/max_level_size:6/36
-[BSG_path] new best_solution_found (1.039245): 0.94668208 16 nodes
-[BSG_path] new best_solution_found (1.049209): 0.94967474 16 nodes
-[BSG_path] new best_solution_found (1.059733): 0.9497555 16 nodes
-[BSG_path] new best_solution_found (1.060397): 0.95247903 16 nodes
-[BSG_path] new best_solution_found (1.067947): 0.95338937 18 nodes
-[DoubleEffort] new best_solution_found (1.073912): 0.95338937
+[BSG_path] new best_solution_found (1.012589): 0.94668208 16 nodes
+[BSG_path] new best_solution_found (1.022664): 0.94967474 16 nodes
+[BSG_path] new best_solution_found (1.033422): 0.9497555 16 nodes
+[BSG_path] new best_solution_found (1.034045): 0.95247903 16 nodes
+[BSG_path] new best_solution_found (1.041165): 0.95338937 18 nodes
+[DoubleEffort] new best_solution_found (1.047568): 0.95338937
 beams/max_level_size:8/64
-[BSG_path] new best_solution_found (2.35399): 0.95407739 18 nodes
-[DoubleEffort] new best_solution_found (2.36024): 0.95407739
+[BSG_path] new best_solution_found (2.370792): 0.95407739 18 nodes
+[DoubleEffort] new best_solution_found (2.377207): 0.95407739
 beams/max_level_size:11/121
 % volume utilization
 95.407739

@@ -721,7 +721,7 @@ class Block:
     def __str__(self):
         return (f"Block: l={self.l}, w={self.w}, h={self.h}, weight={self.weight}, "
                 f"volume={self.volume}, occupied_volume={self.occupied_volume}, "
-                f"items={self.items}, ratio={self.occupied_volume_ratio()}")
+                f"items={self.items}")
 
 
 

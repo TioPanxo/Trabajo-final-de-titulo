@@ -11,24 +11,24 @@ double effort
 copying state
 running
 beams/max_level_size:4/16
-[BSG_path] new best_solution_found (0.010719): 0.92813322 8 nodes
-[BSG_path] new best_solution_found (0.014298): 0.93551171 7 nodes
-[BSG_path] new best_solution_found (0.0568): 0.93596582 10 nodes
-[BSG_path] new best_solution_found (0.07257): 0.9371011 7 nodes
-[DoubleEffort] new best_solution_found (0.077214): 0.9371011
+[BSG_path] new best_solution_found (0.010711): 0.92813322 8 nodes
+[BSG_path] new best_solution_found (0.013551): 0.93551171 7 nodes
+[BSG_path] new best_solution_found (0.055962): 0.93596582 10 nodes
+[BSG_path] new best_solution_found (0.07162): 0.9371011 7 nodes
+[DoubleEffort] new best_solution_found (0.07637): 0.9371011
 beams/max_level_size:6/36
 beams/max_level_size:8/64
-[BSG_path] new best_solution_found (0.347157): 0.93787053 8 nodes
-[BSG_path] new best_solution_found (0.489784): 0.94067629 11 nodes
-[BSG_path] new best_solution_found (0.526306): 0.94132242 11 nodes
-[BSG_path] new best_solution_found (0.527115): 0.9422014 9 nodes
-[DoubleEffort] new best_solution_found (0.532263): 0.9422014
+[BSG_path] new best_solution_found (0.34763): 0.93787053 8 nodes
+[BSG_path] new best_solution_found (0.490884): 0.94067629 11 nodes
+[BSG_path] new best_solution_found (0.527185): 0.94132242 11 nodes
+[BSG_path] new best_solution_found (0.527988): 0.9422014 9 nodes
+[DoubleEffort] new best_solution_found (0.532274): 0.9422014
 beams/max_level_size:11/121
-[BSG_path] new best_solution_found (1.198138): 0.94441631 15 nodes
-[DoubleEffort] new best_solution_found (1.211477): 0.94441631
+[BSG_path] new best_solution_found (1.204931): 0.94441631 15 nodes
+[DoubleEffort] new best_solution_found (1.218914): 0.94441631
 beams/max_level_size:16/256
-[BSG_path] new best_solution_found (2.593429): 0.9448465 8 nodes
-[DoubleEffort] new best_solution_found (2.632857): 0.9448465
+[BSG_path] new best_solution_found (2.622427): 0.9448465 8 nodes
+[DoubleEffort] new best_solution_found (2.663806): 0.9448465
 beams/max_level_size:23/529
 % volume utilization
 94.48465

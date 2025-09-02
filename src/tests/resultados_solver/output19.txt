@@ -11,21 +11,21 @@ double effort
 copying state
 running
 beams/max_level_size:4/16
-[BSG_path] new best_solution_found (0.015847): 0.92620688 18 nodes
-[BSG_path] new best_solution_found (0.066217): 0.94592241 16 nodes
-[BSG_path] new best_solution_found (0.441606): 0.94867639 16 nodes
-[BSG_path] new best_solution_found (0.465254): 0.94988857 15 nodes
-[BSG_path] new best_solution_found (0.478975): 0.950883 16 nodes
-[BSG_path] new best_solution_found (0.479815): 0.95245271 15 nodes
-[DoubleEffort] new best_solution_found (0.480919): 0.95245271
+[BSG_path] new best_solution_found (0.016141): 0.92620688 18 nodes
+[BSG_path] new best_solution_found (0.067794): 0.94592241 16 nodes
+[BSG_path] new best_solution_found (0.441601): 0.94867639 16 nodes
+[BSG_path] new best_solution_found (0.466751): 0.94988857 15 nodes
+[BSG_path] new best_solution_found (0.480705): 0.950883 16 nodes
+[BSG_path] new best_solution_found (0.481532): 0.95245271 15 nodes
+[DoubleEffort] new best_solution_found (0.482667): 0.95245271
 beams/max_level_size:6/36
 beams/max_level_size:8/64
-[BSG_path] new best_solution_found (3.446371): 0.95249086 16 nodes
-[BSG_path] new best_solution_found (3.751784): 0.95472196 18 nodes
-[BSG_path] new best_solution_found (4.019019): 0.9574887 18 nodes
-[BSG_path] new best_solution_found (4.226199): 0.95765317 20 nodes
-[BSG_path] new best_solution_found (4.227786): 0.96010824 20 nodes
-[DoubleEffort] new best_solution_found (4.258042): 0.96010824
+[BSG_path] new best_solution_found (3.425215): 0.95249086 16 nodes
+[BSG_path] new best_solution_found (3.720074): 0.95472196 18 nodes
+[BSG_path] new best_solution_found (3.96973): 0.9574887 18 nodes
+[BSG_path] new best_solution_found (4.174427): 0.95765317 20 nodes
+[BSG_path] new best_solution_found (4.175857): 0.96010824 20 nodes
+[DoubleEffort] new best_solution_found (4.203358): 0.96010824
 beams/max_level_size:11/121
 % volume utilization
 96.010824

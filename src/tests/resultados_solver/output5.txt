@@ -11,12 +11,12 @@ double effort
 copying state
 running
 beams/max_level_size:4/16
-[BSG_path] new best_solution_found (0.014362): 0.91226549 14 nodes
-[BSG_path] new best_solution_found (0.050654): 0.9403918 15 nodes
-[BSG_path] new best_solution_found (0.408338): 0.94270788 15 nodes
-[BSG_path] new best_solution_found (0.416753): 0.94421664 16 nodes
-[BSG_path] new best_solution_found (0.418177): 0.94677593 16 nodes
-[DoubleEffort] new best_solution_found (0.426521): 0.94677593
+[BSG_path] new best_solution_found (0.012459): 0.91226549 14 nodes
+[BSG_path] new best_solution_found (0.049147): 0.9403918 15 nodes
+[BSG_path] new best_solution_found (0.375171): 0.94270788 15 nodes
+[BSG_path] new best_solution_found (0.383332): 0.94421664 16 nodes
+[BSG_path] new best_solution_found (0.384964): 0.94677593 16 nodes
+[DoubleEffort] new best_solution_found (0.393163): 0.94677593
 beams/max_level_size:6/36
 beams/max_level_size:8/64
 beams/max_level_size:11/121

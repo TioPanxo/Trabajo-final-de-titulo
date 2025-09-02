@@ -11,28 +11,32 @@ double effort
 copying state
 running
 beams/max_level_size:4/16
-[BSG_path] new best_solution_found (0.015822): 0.93691605 9 nodes
-[BSG_path] new best_solution_found (0.134293): 0.93878886 11 nodes
-[BSG_path] new best_solution_found (0.155691): 0.93960323 12 nodes
-[BSG_path] new best_solution_found (0.161107): 0.93972975 12 nodes
-[BSG_path] new best_solution_found (0.161933): 0.94054411 13 nodes
-[DoubleEffort] new best_solution_found (0.16405): 0.94054411
+[BSG_path] new best_solution_found (0.013022): 0.93691605 9 nodes
+[BSG_path] new best_solution_found (0.099607): 0.93878886 11 nodes
+[BSG_path] new best_solution_found (0.119923): 0.93960323 12 nodes
+[BSG_path] new best_solution_found (0.125359): 0.93972975 12 nodes
+[BSG_path] new best_solution_found (0.126206): 0.94054411 13 nodes
+[DoubleEffort] new best_solution_found (0.128339): 0.94054411
 beams/max_level_size:6/36
-[BSG_path] new best_solution_found (0.562366): 0.94288386 12 nodes
-[BSG_path] new best_solution_found (0.568935): 0.94329935 13 nodes
-[DoubleEffort] new best_solution_found (0.571194): 0.94329935
+[BSG_path] new best_solution_found (0.419006): 0.94288386 12 nodes
+[BSG_path] new best_solution_found (0.42385): 0.94329935 13 nodes
+[DoubleEffort] new best_solution_found (0.425457): 0.94329935
 beams/max_level_size:8/64
-[BSG_path] new best_solution_found (1.280615): 0.94623501 12 nodes
-[DoubleEffort] new best_solution_found (1.296968): 0.94623501
+[BSG_path] new best_solution_found (1.018079): 0.94623501 12 nodes
+[DoubleEffort] new best_solution_found (1.032158): 0.94623501
 beams/max_level_size:11/121
-[BSG_path] new best_solution_found (2.432388): 0.94880932 10 nodes
-[BSG_path] new best_solution_found (2.470417): 0.94889952 13 nodes
-[BSG_path] new best_solution_found (2.492356): 0.9496639 15 nodes
-[BSG_path] new best_solution_found (2.51163): 0.94997152 12 nodes
-[DoubleEffort] new best_solution_found (2.527463): 0.94997152
+[BSG_path] new best_solution_found (2.093238): 0.94880932 10 nodes
+[BSG_path] new best_solution_found (2.132536): 0.94889952 13 nodes
+[BSG_path] new best_solution_found (2.155421): 0.9496639 15 nodes
+[BSG_path] new best_solution_found (2.174882): 0.94997152 12 nodes
+[DoubleEffort] new best_solution_found (2.190692): 0.94997152
 beams/max_level_size:16/256
+[BSG_path] new best_solution_found (4.890371): 0.95041406 16 nodes
+[BSG_path] new best_solution_found (4.951035): 0.95408091 17 nodes
+[DoubleEffort] new best_solution_found (4.96256): 0.95408091
+beams/max_level_size:23/529
 % volume utilization
-94.997152
+95.408091
 block: 1 (108,45,61)
  -- box: (108,45,61) n: 1
 block: 2 (108,61,45)
@@ -33534,46 +33538,71 @@ selected block:2719 space:(0,149,140)
   action block:2719 eval: 1431360 0.096774194 0.7147796 0.16666667 235832.45 
   action block:2730 eval: 1908480 0.096774194 0.67021915 0.125 229473.9 
   action block:15420 eval: 2385600 0.10578393 0.63969818 0.1 225393.07 
-selected block:16367 space:(216,0,0)
+selected block:20797 space:(219,0,0)
   action block:16367 eval: 3146602 0.018181818 0.72265408 0.066666667 490203.57 
   action block:20641 eval: 3199748 0.016216216 0.63289037 0.1 318661.34 
   action block:20640 eval: 3199748 0.054216448 0.62232416 0.1 286400.77 
   action block:71921 eval: 3014340 0.016216216 0.63026487 0.0625 268757.32 
   action block:3829 eval: 2008400 0.016216216 0.66805689 0.14285714 266676.07 
-selected block:3697 space:(261,83,0)
-  action block:74078 eval: 3014340 0.035506094 0.78224056 0.0625 625214.5 
-  action block:3817 eval: 1911000 0.035506094 0.72506925 0.16666667 355998.26 
-  action block:12217 eval: 2793672 0.02490726 0.64928662 0.071428571 285589.04 
-  action block:6949 eval: 2793672 0.02490726 0.6487628 0.071428571 284668.56 
-  action block:33288 eval: 3014340 0.078696343 0.64817629 0.0625 281542.27 
-  action block:3697 eval: 1911000 0.035506094 0.62769572 0.16666667 199952.38 
-selected block:74750 space:(330,80,94)
-  action block:56742 eval: 2076270 0.059074944 0.79723242 0.076923077 472487.15 
-  action block:12532 eval: 2671578 0.26115281 0.74867001 0.083333333 377266.28 
-  action block:12359 eval: 2653686 0.26115281 0.74867001 0.076923077 368788.39 
-  action block:74750 eval: 1341900 0.028535512 0.73575613 0.090909091 236485.28 
-  action block:9569 eval: 2057580 0.10817959 0.65972222 0.071428571 205046.79 
+  action block:20797 eval: 2742800 0.020438464 0.62507357 0.1 258791.74 
+selected block:2443 space:(277,0,103)
+  action block:11708 eval: 2671578 0.01919377 0.81494148 0.083333333 703105.54 
+  action block:11853 eval: 2653686 0.01919377 0.81494148 0.076923077 687305.43 
+  action block:13816 eval: 2762180 0.0054054054 0.65282479 0.125 329205.16 
+  action block:7078 eval: 2671578 0.051351351 0.65959872 0.083333333 291847.67 
+  action block:7292 eval: 2653686 0.051351351 0.65959872 0.076923077 285289.3 
+  action block:2443 eval: 1624896 0.0084745763 0.6673253 0.16666667 223279.85 
+selected block:545 space:(259,153,0)
+  action block:16362 eval: 1824840 0.074130428 0.68346544 0.090909091 228224.51 
+  action block:2789 eval: 1767682 0.11950505 0.67584289 0.16666667 226925.74 
+  action block:15746 eval: 1749790 0.11950505 0.67584289 0.14285714 217809.19 
+  action block:16319 eval: 1440162 0.11507652 0.70626106 0.090909091 196290.63 
+  action block:146 eval: 1137284 0.063627483 0.67415158 0.5 191488.11 
+  action block:545 eval: 954240 0.041354608 0.68894961 0.25 156190.08 
+selected block:2879 space:(271,154,112)
+  action block:143 eval: 1137284 0.056868439 0.6361824 0.5 152954.34 
+  action block:149 eval: 1137284 0.18829573 0.60057779 0.5 104553.32 
+  action block:9398 eval: 1103340 0.059322034 0.57760039 0.1 72888.708 
+  action block:9384 eval: 1188670 0.22033898 0.58024641 0.14285714 71186.454 
+  action block:25 eval: 568642 0.041322314 0.59995782 1 70630.851 
+  action block:2879 eval: 1109160 0.10453504 0.48849035 0.125 37312.018 
 selected block:40 space:(213,142,150)
-  action block:98 eval: 541632 0.37777778 0.62239228 0.5 44025.127 
-  action block:94 eval: 541632 0.37777778 0.61785923 0.5 42756.485 
-  action block:119 eval: 477120 0.12765371 0.50686125 0.5 23914.808 
-  action block:11 eval: 270816 0.28205128 0.58805535 1 23250.943 
-  action block:12 eval: 270816 0.37777778 0.58805535 1 20150.817 
-  action block:40 eval: 318500 0.15845281 0.4899792 1 15448.932 
-selected block:127 space:(216,91,0)
-  action block:127 eval: 477120 0.078082789 0.5 0.5 23932.803 
-  action block:124 eval: 477120 0.065708061 0.49613228 0.5 23512.248 
-  action block:101 eval: 541632 0.24241519 0.5 0.5 22325.932 
-  action block:13 eval: 270816 0.08356676 0.5 1 15511.549 
-  action block:19 eval: 238560 0.013071895 0.5 1 14715.098 
-selected block:502 space:(268,121,103)
-  action block:131 eval: 277290 0.0500076 0.66520796 0.5 44903.283 
-  action block:502 eval: 812448 0.14619243 0.5 0.33333333 34802.572 
-  action block:101 eval: 541632 0.43079495 0.59457821 0.5 33543.086 
-  action block:26 eval: 568642 0.15839443 0.5 1 29910.767 
-  action block:104 eval: 541632 0.058622423 0.5 0.5 27742.282 
-selected block:13 space:(216,121,88)
-  action block:13 eval: 270816 0.18830199 0.43630736 1 7965.9751 
-selected block:95 space:(216,80,96)
-  action block:95 eval: 541632 0.047266241 0.84230469 0.5 226124.05 
-  action block:11 eval: 270816 0.016532894 0.70294975 1 65032.623 
+  action block:40 eval: 318500 0.1606051 0.4899792 1 15409.421 
+  action block:43 eval: 244800 0.35483871 0.50753769 1 10479.798 
+  action block:44 eval: 244800 0.35483871 0.5 1 9870.9677 
+  action block:75 eval: 220668 0.4184377 0.5 0.5 6982.4788 
+  action block:70 eval: 220668 0.4184377 0.5 0.5 6982.4788 
+selected block:26 space:(216,0,102)
+  action block:26 eval: 568642 0.014084507 0.81838418 1 251482.36 
+  action block:25 eval: 568642 0.18309859 0.69902526 1 110912.39 
+  action block:41 eval: 244800 0.024729091 0.66444724 1 46534.889 
+  action block:42 eval: 244800 0.031597196 0.66080402 1 45202.053 
+  action block:194 eval: 637000 0.19187255 0.55907781 0.5 43782.677 
+selected block:357 space:(216,162,0)
+  action block:357 eval: 441336 0.15598394 0.71257485 0.25 72783.013 
+  action block:328 eval: 331002 0.10843373 0.69877206 0.33333333 56480.968 
+  action block:332 eval: 441336 0.15598394 0.65495403 0.25 51945.91 
+  action block:353 eval: 331002 0.15598394 0.69207729 0.33333333 51448.828 
+  action block:70 eval: 220668 0.10843373 0.73157616 0.5 49059.732 
+selected block:423 space:(330,112,109)
+  action block:365 eval: 331002 0.10464259 0.75556408 0.33333333 77533.255 
+  action block:423 eval: 331002 0.072955048 0.74695652 0.33333333 76681.121 
+  action block:422 eval: 331002 0.23065586 0.75556408 0.33333333 66621.167 
+  action block:364 eval: 331002 0.22973471 0.75381643 0.33333333 66085.941 
+  action block:87 eval: 220668 0.031196266 0.73157616 0.5 53309.837 
+selected block:129 space:(271,154,84)
+  action block:129 eval: 277290 0.090909091 0.89474015 0.5 140644.65 
+  action block:21 eval: 138645 0.027972028 0.84611548 1 69071.922 
+  action block:22 eval: 138645 0.19447641 0.77407736 1 40097.743 
+selected block:43 space:(216,79,140)
+  action block:43 eval: 244800 0.19776103 0.63023451 1 30983.029 
+  action block:41 eval: 244800 0.19776103 0.60414573 1 26162.667 
+  action block:5 eval: 110334 0.60651704 0.49225185 1 2549.0873 
+  action block:7 eval: 110334 0.60651704 0.4912048 1 2527.4682 
+selected block:7 space:(293,112,149)
+  action block:7 eval: 110334 0.42851285 0.68337289 1 13751.397 
+  action block:5 eval: 110334 0.42851285 0.5 1 3940.904 
+selected block:6 space:(216,91,103)
+  action block:6 eval: 110334 0.29553508 0.59318721 1 9623.5621 
+selected block:9 space:(259,112,103)
+  action block:9 eval: 110334 0 0.68791009 1 24707.915 

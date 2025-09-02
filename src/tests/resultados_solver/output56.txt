@@ -11,21 +11,21 @@ double effort
 copying state
 running
 beams/max_level_size:4/16
-[BSG_path] new best_solution_found (0.013219): 0.91587567 19 nodes
-[BSG_path] new best_solution_found (0.069327): 0.91732531 13 nodes
-[BSG_path] new best_solution_found (0.080983): 0.91999929 16 nodes
-[BSG_path] new best_solution_found (0.115573): 0.92108152 14 nodes
-[BSG_path] new best_solution_found (0.135437): 0.92408203 18 nodes
-[BSG_path] new best_solution_found (0.149): 0.93428674 19 nodes
-[BSG_path] new best_solution_found (0.156175): 0.93755185 15 nodes
-[DoubleEffort] new best_solution_found (0.200439): 0.93755185
+[BSG_path] new best_solution_found (0.012457): 0.91587567 19 nodes
+[BSG_path] new best_solution_found (0.070352): 0.91732531 13 nodes
+[BSG_path] new best_solution_found (0.081156): 0.91999929 16 nodes
+[BSG_path] new best_solution_found (0.114646): 0.92108152 14 nodes
+[BSG_path] new best_solution_found (0.135104): 0.92408203 18 nodes
+[BSG_path] new best_solution_found (0.149737): 0.93428674 19 nodes
+[BSG_path] new best_solution_found (0.156805): 0.93755185 15 nodes
+[DoubleEffort] new best_solution_found (0.20101): 0.93755185
 beams/max_level_size:6/36
-[BSG_path] new best_solution_found (0.539163): 0.93931193 17 nodes
-[BSG_path] new best_solution_found (0.543203): 0.94535491 15 nodes
-[BSG_path] new best_solution_found (0.592703): 0.9527322 16 nodes
-[BSG_path] new best_solution_found (0.635123): 0.95534606 19 nodes
-[BSG_path] new best_solution_found (0.693023): 0.95629995 19 nodes
-[DoubleEffort] new best_solution_found (0.694777): 0.95629995
+[BSG_path] new best_solution_found (0.554389): 0.93931193 17 nodes
+[BSG_path] new best_solution_found (0.558071): 0.94535491 15 nodes
+[BSG_path] new best_solution_found (0.607211): 0.9527322 16 nodes
+[BSG_path] new best_solution_found (0.648436): 0.95534606 19 nodes
+[BSG_path] new best_solution_found (0.706487): 0.95629995 19 nodes
+[DoubleEffort] new best_solution_found (0.708206): 0.95629995
 beams/max_level_size:8/64
 beams/max_level_size:11/121
 beams/max_level_size:16/256

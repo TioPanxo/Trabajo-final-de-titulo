@@ -11,23 +11,23 @@ double effort
 copying state
 running
 beams/max_level_size:4/16
-[BSG_path] new best_solution_found (0.014496): 0.94463666 14 nodes
-[BSG_path] new best_solution_found (0.235525): 0.94931169 13 nodes
-[BSG_path] new best_solution_found (0.262434): 0.94998887 13 nodes
-[BSG_path] new best_solution_found (0.288745): 0.95007355 12 nodes
-[BSG_path] new best_solution_found (0.289345): 0.95263443 13 nodes
-[DoubleEffort] new best_solution_found (0.2947): 0.95263443
+[BSG_path] new best_solution_found (0.015103): 0.94463666 14 nodes
+[BSG_path] new best_solution_found (0.225482): 0.94931169 13 nodes
+[BSG_path] new best_solution_found (0.252404): 0.94998887 13 nodes
+[BSG_path] new best_solution_found (0.278845): 0.95007355 12 nodes
+[BSG_path] new best_solution_found (0.27941): 0.95263443 13 nodes
+[DoubleEffort] new best_solution_found (0.284269): 0.95263443
 beams/max_level_size:6/36
-[BSG_path] new best_solution_found (0.746593): 0.95598761 14 nodes
-[DoubleEffort] new best_solution_found (1.009886): 0.95598761
+[BSG_path] new best_solution_found (0.764171): 0.95598761 14 nodes
+[DoubleEffort] new best_solution_found (1.007521): 0.95598761
 beams/max_level_size:8/64
-[BSG_path] new best_solution_found (2.142605): 0.95711172 12 nodes
-[BSG_path] new best_solution_found (2.179499): 0.95879317 17 nodes
-[DoubleEffort] new best_solution_found (2.189522): 0.95879317
+[BSG_path] new best_solution_found (2.202237): 0.95711172 12 nodes
+[BSG_path] new best_solution_found (2.239186): 0.95879317 17 nodes
+[DoubleEffort] new best_solution_found (2.249523): 0.95879317
 beams/max_level_size:11/121
-[BSG_path] new best_solution_found (4.287169): 0.96021811 12 nodes
-[BSG_path] new best_solution_found (4.317582): 0.96032751 13 nodes
-[DoubleEffort] new best_solution_found (4.339554): 0.96032751
+[BSG_path] new best_solution_found (4.428378): 0.96021811 12 nodes
+[BSG_path] new best_solution_found (4.459819): 0.96032751 13 nodes
+[DoubleEffort] new best_solution_found (4.481576): 0.96032751
 beams/max_level_size:16/256
 % volume utilization
 96.032751

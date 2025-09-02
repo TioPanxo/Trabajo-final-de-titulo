@@ -11,21 +11,21 @@ double effort
 copying state
 running
 beams/max_level_size:4/16
-[BSG_path] new best_solution_found (0.021832): 0.90388599 15 nodes
-[BSG_path] new best_solution_found (0.033664): 0.92472188 14 nodes
-[BSG_path] new best_solution_found (0.044539): 0.92474242 16 nodes
-[BSG_path] new best_solution_found (0.382256): 0.92729247 15 nodes
-[BSG_path] new best_solution_found (0.419914): 0.92894174 13 nodes
-[BSG_path] new best_solution_found (0.428651): 0.93131206 16 nodes
-[BSG_path] new best_solution_found (0.479784): 0.93296672 16 nodes
-[BSG_path] new best_solution_found (0.486388): 0.93405168 15 nodes
-[BSG_path] new best_solution_found (0.498153): 0.93739668 18 nodes
-[DoubleEffort] new best_solution_found (0.500902): 0.93739668
+[BSG_path] new best_solution_found (0.020147): 0.90388599 15 nodes
+[BSG_path] new best_solution_found (0.030422): 0.92472188 14 nodes
+[BSG_path] new best_solution_found (0.041144): 0.92474242 16 nodes
+[BSG_path] new best_solution_found (0.371523): 0.92729247 15 nodes
+[BSG_path] new best_solution_found (0.407793): 0.92894174 13 nodes
+[BSG_path] new best_solution_found (0.416731): 0.93131206 16 nodes
+[BSG_path] new best_solution_found (0.466266): 0.93296672 16 nodes
+[BSG_path] new best_solution_found (0.47318): 0.93405168 15 nodes
+[BSG_path] new best_solution_found (0.484871): 0.93739668 18 nodes
+[DoubleEffort] new best_solution_found (0.488027): 0.93739668
 beams/max_level_size:6/36
-[BSG_path] new best_solution_found (1.432557): 0.93787944 18 nodes
-[BSG_path] new best_solution_found (1.514294): 0.94258007 18 nodes
-[BSG_path] new best_solution_found (1.588302): 0.94433363 18 nodes
-[DoubleEffort] new best_solution_found (1.613567): 0.94433363
+[BSG_path] new best_solution_found (1.374572): 0.93787944 18 nodes
+[BSG_path] new best_solution_found (1.452344): 0.94258007 18 nodes
+[BSG_path] new best_solution_found (1.526226): 0.94433363 18 nodes
+[DoubleEffort] new best_solution_found (1.551371): 0.94433363
 beams/max_level_size:8/64
 beams/max_level_size:11/121
 % volume utilization
